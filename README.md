@@ -1,7 +1,5 @@
 # 🎯 PROYECTO: Sistema Automatizado de Pruebas Atrasadas
 
-**Cliente:** Claudio Rojas - Director Académico  
-**Institución:** Colegio San Francisco Javier, Puerto Montt  
 **Fecha inicio:** Febrero 2026  
 **Estado:** Prototipo funcional completado ✅
 
