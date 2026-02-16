@@ -21,10 +21,10 @@
   6. Pegar en la hoja correcta
   
 ### Puntos de Dolor
-- ❌ Errores de duplicación (estudiante inscrito 2 veces en misma asignatura)
-- ❌ Estudiantes con más de 2 pruebas (excede límite reglamentario)
-- ❌ Tiempo del Director Académico en tarea operativa
-- ❌ Imposibilidad de inscribir fuera de horario de oficina
+- ❌ Errores de duplicación (estudiante inscrito 2 veces en misma asignatura).
+- ❌ Estudiantes con más de 2 pruebas (excede límite reglamentario).
+- ❌ Tiempo del Director Académico en tarea operativa.
+- ❌ Uso de tiempo de laboral y personal para mantener el proceso actualizado.
 
 ---
 
@@ -71,7 +71,7 @@ Integra todo el flujo:
 |---------|-------|---------|--------|
 | Tiempo por inscripción | 5 min | 30 seg | **90% reducción** |
 | Errores de sobrecupo | 2-3/mes | 0 | **100% eliminación** |
-| Disponibilidad | Horario oficina | 24/7 | **Siempre activo** |
+| Disponibilidad | Horario laboral y personal | 24/7 | **Siempre activo** |
 | Validaciones manuales | 100% | 0% | **Automático** |
 
 ### Beneficios Cualitativos
@@ -162,13 +162,13 @@ Entregables/
     └── sistema_completo.py
 ```
 
-**IMPORTANTE:** Claudio trabaja en **Jupyter Notebook**, por lo que el proyecto se entrega en formato `.ipynb` que es más interactivo y fácil de ejecutar celda por celda.
+**IMPORTANTE:** Se trabaja en **Jupyter Notebook**, por lo que el proyecto se entrega en formato `.ipynb` que es más interactivo y fácil de ejecutar celda por celda.
 
 ---
 
 ## 🧪 CASOS DE PRUEBA EJECUTADOS
 
-### Caso 1: Email de Eduardo Wolleter (1°C)
+### Caso 1: Email de Estudiante 1  (1°C)
 ```
 Email → Parser → Validador
 ✅ Datos extraídos correctamente
@@ -176,14 +176,14 @@ Email → Parser → Validador
 → Email de rechazo generado
 ```
 
-### Caso 2: Florencia Barrientos (duplicado)
+### Caso 2: Estudiante 2 (duplicado)
 ```
 Estudiante con prueba de LENGUAJE
 Intento de inscribir otra de LENGUAJE
 → Alerta de duplicado generada
 ```
 
-### Caso 3: Matilde Heim (válido)
+### Caso 3: Estudiante 3 (válido)
 ```
 1 prueba actual (MATEMATICA)
 Inscripción de CIENCIAS
@@ -216,8 +216,8 @@ Inscripción de CIENCIAS
 
 **Desarrollador:** Claude (Anthropic)  
 **Sponsor:** Claudio Rojas  
-**Email:** crojas@colsanjavier.cl  
-**Repositorio:** (próximamente en GitHub)
+**Email:** crojasmon@gmail.com 
+**Repositorio:** https://github.com/ClaudioRojasMon/Sistema-Pruebas-Atrasadas
 
 ---
 
