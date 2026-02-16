@@ -1,3 +1,5 @@
+![Analitica](Logo.png)
+
 # 🎯 PROYECTO: Sistema Automatizado de Pruebas Atrasadas
 
 **Fecha inicio:** Febrero 2026  
