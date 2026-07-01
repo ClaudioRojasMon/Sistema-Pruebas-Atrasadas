@@ -1,4 +1,4 @@
-![Analitica](Logo.png)
+![Analitica](Logo-completo.png)
 
 # 🎯 PROYECTO: Sistema Automatizado de Pruebas Atrasadas
 
